@@ -5,7 +5,7 @@ import AuthProvider from "./provider/AuthProvider";
 
 
 export const metadata: Metadata = {
-  title: "Team Access Control",
+  title: "orbit teams",
   description: "Role-based access control system build with Next.Js 16 & React.Js 19",
   keywords:["team","access controll"]
 };
